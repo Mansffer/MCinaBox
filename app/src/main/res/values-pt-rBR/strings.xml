@@ -250,8 +250,8 @@
 	<string name="tips_are_you_sure_to_import_keyboard_layout">You are about to load the file %s. The load operation will clear your current configuration. Please make sure you have saved the current template.</string>
 	<string name="tips_are_you_sure_to_clear_all_buttons">You are about to clear all the currently added custom buttons. This operation will not affect the saved template files. The clearing operation cannot be restored.</string>
 	<string name="tips_the_user_has_been_created">User already exists!</string>
-	<string name="tips_user_name_can_not_be_void">Username can not be empty!</string>
-	<string name="tips_password_can_not_be_void">Password can not be blank!</string>
+	<string name="tips_user_name_can_not_be_void">O nome de usuário não pode estar vazio!</string>
+	<string name="tips_password_can_not_be_void">A senha não pode ficar em branco!</string>
 	<string name="tips_are_you_sure_to_restore_setting">Tem certeza de que deseja restaurar as configurações padrão?</string>
 	<string name="tips_are_you_sure_to_cancel_download_task">Tem certeza de que deseja cancelar a tarefa de download? Esta operação não mudará o conteúdo baixado.</string>
 	<string name="tips_are_you_sure_to_delete_button">Tem certeza de que deseja excluir este botão? Essa operação não pode ser desfeita.</string>
