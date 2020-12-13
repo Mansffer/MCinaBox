@@ -244,12 +244,12 @@
 	<string name="tips_failed_to_make_launch_arg">An unknown error occurred and the launch arguments generation failed!\nError: %s</string>
 	<string name="tips_failed_to_import_keyboard_layout">Failed to load the keyboard file, the file is damaged!</string>
 	<string name="tips_successed_to_import_keyboard_layout">The keyboard file is loaded successfully!</string>
-	<string name="tips_filename_can_not_be_void">The file name cannot be empty!</string>
+	<string name="tips_filename_can_not_be_void">O nome do arquivo não pode estar vazio!</string>
 	<string name="tips_filename_has_been_used">"A file with the same name exists. Do you want to overwrite the existing file? Overwrite operation is not recoverable"</string>
-	<string name="tips_are_you_sure_to_delete_file">You are about to delete the file %s. This operation cannot be recovered.</string>
-	<string name="tips_are_you_sure_to_import_keyboard_layout">You are about to load the file %s. The load operation will clear your current configuration. Please make sure you have saved the current template.</string>
-	<string name="tips_are_you_sure_to_clear_all_buttons">You are about to clear all the currently added custom buttons. This operation will not affect the saved template files. The clearing operation cannot be restored.</string>
-	<string name="tips_the_user_has_been_created">User already exists!</string>
+	<string name="tips_are_you_sure_to_delete_file">Você está prestes a deletar o arquivo %s. Esta operação não poderá ser desfeita.</string>
+	<string name="tips_are_you_sure_to_import_keyboard_layout">Você está prestes a carregar o arquivo %s. A operação de carregamento limpará sua configuração atual. Certifique-se de que salvou o modelo atual.</string>
+	<string name="tips_are_you_sure_to_clear_all_buttons">Você está prestes a limpar todos os botões personalizados adicionados no momento. Esta operação não afetará os arquivos de modelos salvos. A operação de limpeza não poderá ser desfeita.</string>
+	<string name="tips_the_user_has_been_created">O usuário já existe!</string>
 	<string name="tips_user_name_can_not_be_void">O nome de usuário não pode estar vazio!</string>
 	<string name="tips_password_can_not_be_void">A senha não pode ficar em branco!</string>
 	<string name="tips_are_you_sure_to_restore_setting">Tem certeza de que deseja restaurar as configurações padrão?</string>
