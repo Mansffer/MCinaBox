@@ -236,11 +236,11 @@
 	<string name="tips_checking_options_txt">Checking options.txt…</string>
 	<string name="tips_mipmap_level_is_not_0">It is detected that the Mipmap level of Minecraft is not 0, which will cause the game fluency to decrease and some rendering errors will occur. Do you want to change the Mipmap level to 0?</string>
 	<string name="tips_failed_to_revise">An unknown error occurred, %s modification failed!</string>
-	<string name="tips_not_disable_touch_screen">It is detected that the touch screen mode of Minecraft is turned on, which will make the game difficult to operate. Do you want to turn off the touch screen mode?</string>
-	<string name="tips_initing_launch_arg">Initializing startup arguments…</string>
+	<string name="tips_not_disable_touch_screen">Foi detectado que o modo touch screen do Minecraft está ligado, o que tornará o jogo difícil de operar. Você deseja desligar o modo de touch screen?</string>
+	<string name="tips_initing_launch_arg">Inicializando argumentos de inicialização…</string>
 	<string name="tips_please_select_runtime_manifest">Please select runtime manifest:</string>
-	<string name="tips_user_canceled">User canceled the operation.</string>
-	<string name="tips_making_launch_arg">Generating launch arguments…</string>
+	<string name="tips_user_canceled">O usuário cancelou a operação.</string>
+	<string name="tips_making_launch_arg">Gerando argumentos do launcher…</string>
 	<string name="tips_failed_to_make_launch_arg">Ocorreu um erro desconhecido e a geração dos argumentos do launcher falhou!\nErro: %s</string>
 	<string name="tips_failed_to_import_keyboard_layout">Falha ao carregar o arquivo do teclado, o arquivo está danificado!</string>
 	<string name="tips_successed_to_import_keyboard_layout">O arquivo do teclado foi carregado com sucesso!</string>
