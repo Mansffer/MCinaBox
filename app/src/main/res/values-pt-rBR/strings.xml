@@ -241,11 +241,11 @@
 	<string name="tips_please_select_runtime_manifest">Please select runtime manifest:</string>
 	<string name="tips_user_canceled">User canceled the operation.</string>
 	<string name="tips_making_launch_arg">Generating launch arguments…</string>
-	<string name="tips_failed_to_make_launch_arg">An unknown error occurred and the launch arguments generation failed!\nError: %s</string>
-	<string name="tips_failed_to_import_keyboard_layout">Failed to load the keyboard file, the file is damaged!</string>
-	<string name="tips_successed_to_import_keyboard_layout">The keyboard file is loaded successfully!</string>
+	<string name="tips_failed_to_make_launch_arg">Ocorreu um erro desconhecido e a geração dos argumentos do launcher falhou!\nErro: %s</string>
+	<string name="tips_failed_to_import_keyboard_layout">Falha ao carregar o arquivo do teclado, o arquivo está danificado!</string>
+	<string name="tips_successed_to_import_keyboard_layout">O arquivo do teclado foi carregado com sucesso!</string>
 	<string name="tips_filename_can_not_be_void">O nome do arquivo não pode estar vazio!</string>
-	<string name="tips_filename_has_been_used">"A file with the same name exists. Do you want to overwrite the existing file? Overwrite operation is not recoverable"</string>
+	<string name="tips_filename_has_been_used">"Existe um arquivo com o mesmo nome. Você quer sobrescrever o arquivo existente? A operação de substituição não poderá ser desfeita"</string>
 	<string name="tips_are_you_sure_to_delete_file">Você está prestes a deletar o arquivo %s. Esta operação não poderá ser desfeita.</string>
 	<string name="tips_are_you_sure_to_import_keyboard_layout">Você está prestes a carregar o arquivo %s. A operação de carregamento limpará sua configuração atual. Certifique-se de que salvou o modelo atual.</string>
 	<string name="tips_are_you_sure_to_clear_all_buttons">Você está prestes a limpar todos os botões personalizados adicionados no momento. Esta operação não afetará os arquivos de modelos salvos. A operação de limpeza não poderá ser desfeita.</string>
