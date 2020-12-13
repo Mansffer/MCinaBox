@@ -262,10 +262,10 @@
 	<string name="tips_failed_to_revise_game_dir">Ocorreu um erro desconhecido e a configuração do diretório falhou!</string>
 	<string name="tips_failed_to_change_backfround_pic_is_broken">O arquivo de imagem está danificado, a imagem de fundo do launcher não mudou!</string>
 	<string name="tips_failed_to_install_forge">Ocorreu um erro desconhecido, a instalação do Forge falhou!</string>
-	<string name="tips_please_put_pic_to_background_dir">Please put the picture with the suffix png into the %s folder, the launcher will randomly select one as the background, and this operation will take effect after restarting.</string>
+	<string name="tips_please_put_pic_to_background_dir">Por favor, coloque a imagem com o sufixo png na pasta %s, o launcher irá selecionar aleatoriamente um como plano de fundo e esta operação terá efeito após reiniciar.</string>
 	<string name="tips_successed_to_disable_hide_stat_bar">Você desativou a função de ocultação da barra de status e as alterações serão aplicadas na próxima vez que você iniciar.</string>
-	<string name="tips_launching">Launching…</string>
-	<string name="tips_are_you_sure_to_delete_version">%s is about to be deleted. This operation will not make any changes to dependent libraries and resource files. After this operation is performed, it cannot be restored. Do you want to continue?</string>
+	<string name="tips_launching">Iniciando…</string>
+	<string name="tips_are_you_sure_to_delete_version">%s está prestes a ser excluído. Esta operação não fará nenhuma alteração nas bibliotecas e arquivos de recursos dependentes. Depois que essa operação for realizada, ela não poderá ser restaurada. Você quer continuar?</string>
 	<string name="tips_going_to_restart_app">Esta operação irá reiniciar o aplicativo. Você quer continuar?"</string>
 	<string name="tips_are_you_sure_to_refresh_online_account">Você está atualizando o status da conta premium. Esta operação excluirá e recuperará as credenciais da conta premium. Certifique-se de que a Internet está ligada. Você quer continuar?</string>
 	<string name="tips_not_create_user_please_do_it">Você não selecionou um usuário, selecione gerenciamento de usuários na barra de navegação esquerda e crie ou selecione um usuário.</string>
