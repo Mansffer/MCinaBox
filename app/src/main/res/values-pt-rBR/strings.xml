@@ -170,7 +170,7 @@
 	<string name="title_online_login">Login online</string>
 
 	<string name="tips_contributors_list">Lista dos contribuidores</string>
-	<string name="tips_contributors_full">Subject to the Github project provided</string>
+	<string name="tips_contributors_full">Sujeito ao projeto fornecido no Github</string>
 	<string name="tips_unzip_failed">Falha na descompactação</string>
 	<string name="tips_user_namehint">Nome de usuário ou email</string>
 	<string name="tips_please_enter_password">Por favor, insira sua senha</string>
