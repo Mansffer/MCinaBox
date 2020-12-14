@@ -6,7 +6,7 @@
 	<string name="app_about_developer">Desenvolvedores</string>
 	<string name="app_about_contributor">Contribuidores</string>
 	<string name="app_about_thanks">Obrigado</string>
-	<string name="app_about_dependent">Dependentes</string>
+	<string name="app_about_dependent">Dependências</string>
 	<string name="app_about_details">Aviso Legal</string>
 	<string name="app_about_opensource">Código Aberto</string>
 	<string name="app_about_thanks_info">CosineMath (BoatApp, https://github.com/CosineMath/) Suporte de back-end do Launcher\nbangbang93 (BMCLAPI, http://bmclapi2.bangbang93.com/) Suporte da fonte de download de alta velocidade doméstica chinesa\nProvedor do ícone do aplicativo snajdovski\nA cooperação e os esforços de todos os membros da equipe de desenvolvimento de software da AOF(AOF-Dev, https://github.com/AOF-Dev)\nTodos os colaboradores que participaram deste projeto por meio de problemas, solicitações pull, etc.</string>
