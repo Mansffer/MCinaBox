@@ -181,7 +181,7 @@
 	<string name="tips_refresh_finished">Atualização concluída</string>
 	<string name="tips_please_refresh">Por favor, atualize</string>
 	<string name="tips_please_select_version">Selecione uma versão do jogo</string>
-	<string name="tips_no_manifest_data">No Manifest Data</string>
+	<string name="tips_no_manifest_data">Sem dados do manifest</string>
 	<string name="tips_runtime_notfound">O runtime não foi encontrado</string>
 	<string name="tips_installing_runtime">Instalando o Runtime…</string>
 	<string name="tips_runtime_install_successed">O runtime foi instalado com sucesso</string>
@@ -224,9 +224,9 @@
 	<string name="tips_checking_libraries">"Verificando as dependências do jogo…</string>
 	<string name="tips_lose_libraries">A biblioteca dependente está incompleta, arquivos ausentes: \n%s Deseja continuar?</string>
 	<string name="tips_lose_libraries_and_user_canceled_please_reinstall_minecraft">A biblioteca de dependências do Minecraft está incompleta. Reinstale a versão do Minecraft. O usuário concluiu a operação.</string>
-	<string name="tips_checking_assets_index">Checking Resource Index file…</string>
-	<string name="tips_not_found_assets_index">If the Minecraft resource index file is not detected, there will be no sound and multi-language support in Minecraft. Do you want to continue?</string>
-	<string name="tips_not_found_assets_index_and_user_canceled">The Minecraft resource index file is missing, and the user has ended the operation.</string>
+	<string name="tips_checking_assets_index">Verificando arquivo de índice de recursos…</string>
+	<string name="tips_not_found_assets_index">Se o arquivo de índice de recursos do Minecraft não for detectado, não haverá som e suporte a vários idiomas no Minecraft. Você quer continuar?</string>
+	<string name="tips_not_found_assets_index_and_user_canceled">O arquivo de índice de recursos do Minecraft está ausente e o usuário encerrou a operação.</string>
 	<string name="tips_checking_assets_objs">Verificando os arquivos de recursos…</string>
 	<string name="tips_lose_assets_objs">Arquivo de recurso incompleto detectado, arquivo ausente: \n%s Você quer continuar?</string>
 	<string name="tips_lose_assets_objs_and_user_canceled">Os recursos do Minecraft estão incompletos e o usuário encerrou a operação.</string>
